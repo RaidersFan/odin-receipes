@@ -1,0 +1,48 @@
+body{
+  background-color: lightblue;
+}
+h1{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  background-color: black;
+  color: white;
+  font-weight: bolder;
+  width: fit-content;
+  padding: 5px;
+  border-radius: 20px;
+}
+.recipe{
+  font-size: 16px;
+  color: #3b056d
+}
+li{
+  color: blue;
+}
+ul{
+  background-color: #e22bd980;
+  width: fit-content;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 5px;
+}
+ol li{
+  color: red;
+  background-color:lavender;
+  width:max-content;
+}
+
+img {
+  border-radius: 10px;
+}
+
+h2{
+  font-family: cursive;
+  font-size: 32px;
+  margin: 5px
+}
+
+.desc {
+  color: darkgreen;
+  background-color: lightyellow;
+  margin-top: -5px;
+  margin-bottom: -10px;
+}
