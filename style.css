@@ -24,17 +24,19 @@ ul{
   margin: 10px;
   border-radius: 5px;
 }
-ol li{
-  color: red;
+ol {
   background-color:lavender;
   width:fit-content;
   padding: 5px;
   margin: 10px;
   border-radius: 5px;
 }
-
+ol li {
+  color: red;
+}
 img {
   border-radius: 10px;
+  padding: 10px;
 }
 
 h2{
