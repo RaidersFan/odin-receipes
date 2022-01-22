@@ -27,7 +27,10 @@ ul{
 ol li{
   color: red;
   background-color:lavender;
-  width:max-content;
+  width:fit-content;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 5px;
 }
 
 img {
